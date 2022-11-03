@@ -1,1 +1,1 @@
-# cityapp![KTU_Yeni_Logo](https://user-images.githubusercontent.com/93138685/199793285-22b9e2ef-83c4-4cc9-9653-1137d8186547.png)
+<img src="https://user-images.githubusercontent.com/93138685/199794133-c2fa68b9-c52a-4dae-9e10-888e7d2daf99.png" width="150" height="280">
